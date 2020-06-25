@@ -1,0 +1,41 @@
+.navbar-nav .nav-link {
+    color: rgba(0,0,0,1) !important;
+}
+
+.navbar-nav .nav-link:hover {
+    color: rgb(0, 153, 255) !important;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+@media (min-width: 700px) {
+    #hometext {
+        font-size: 4rem;
+    }
+
+    #blogdetailtitle {
+        font-size: 5rem;
+    }
+
+    #blogtitle {
+        font-size: 4rem;
+    }
+
+}
+
+@media (max-width: 699px) {
+    #hometext {
+        font-size: 4rem;
+    }
+
+    #blogdetailtitle {
+        font-size: 5rem;
+    }
+
+    #blogtitle {
+        font-size: 4rem;
+    }
+
+}
